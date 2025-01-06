@@ -1,6 +1,6 @@
 # UFW Profile Manager
 
-A simple bash script to manage UFW (Uncomplicated Firewall) profiles on Linux systems.
+A bash script to manage UFW (Uncomplicated Firewall) profiles on Linux systems.
 
 ## Prerequisites
 
